@@ -1,0 +1,31 @@
+_repo: The-Long-Lane-s-Turning_35326
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Rogers, Frances
+    gutenberg_agent_id: '9480'
+    url: http://www.gutenberg.org/2009/agents/9480
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Rives, Hallie Erminie
+    alias: Wheeler, Post, Mrs.
+    birthdate: 1876
+    gutenberg_agent_id: '34390'
+    url: http://www.gutenberg.org/2009/agents/34390
+description: ''
+gutenberg_issued: '2011-08-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35326'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Fiction'
+title: The Long Lane's Turning
+url: http://www.gutenberg.org/ebooks/35326
